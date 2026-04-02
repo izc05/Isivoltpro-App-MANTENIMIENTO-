@@ -1,16 +1,1 @@
-{
-  "name": "IsiVoltPro",
-  "short_name": "IsiVoltPro",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#03060d",
-  "theme_color": "#2f7ef5",
-  "icons": [
-    {
-      "src": "assets/logo.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
-}
+{\n    "name": "Isivoltpro App",\n    "short_name": "Isivoltpro",\n    "start_url": ".",\n    "display": "standalone",\n    "background_color": "#ffffff",\n    "theme_color": "#000000",\n    "icons": [\n        {\n            "src": "logo.svg",\n            "sizes": "192x192",\n            "type": "image/svg+xml"\n        }\n    ]\n}
